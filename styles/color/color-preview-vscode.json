@@ -1,0 +1,29 @@
+
+{
+  "Light": {
+    "btn-default": "#9C69E2",
+"--btn-default": "#9C69E2",
+"bg-4": "#F063B8",
+"--bg-4": "#F063B8",
+"bg-5": "#68C9BA",
+"--bg-5": "#68C9BA",
+"bg-default": "#FFFFFF",
+"--bg-default": "#FFFFFF",
+"bg-main": "#9C69E2",
+"--bg-main": "#9C69E2",
+"bg-blue-2": "#2D9CDB",
+"--bg-blue-2": "#2D9CDB",
+"bg-gray": "#F5F5F5",
+"--bg-gray": "#F5F5F5",
+"black-default": "#000000",
+"--black-default": "#000000",
+"text-1": "#4B5D68",
+"--text-1": "#4B5D68",
+"text-2": "#212353",
+"--text-2": "#212353",
+"text-3": "#9C69E2",
+"--text-3": "#9C69E2",
+"text-white": "#FFFFFF",
+"--text-white": "#FFFFFF"
+  }
+}

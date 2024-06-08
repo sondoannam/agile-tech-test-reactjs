@@ -1,0 +1,24 @@
+{
+  "Light": {
+    "btn": {
+      "default": "#9C69E2"
+    },
+    "bg": {
+      "default": "#FFFFFF",
+      "main": "#9C69E2",
+      "blue-2": "#2D9CDB",
+      "4": "#F063B8",
+      "5": "#68C9BA",
+      "gray": "#F5F5F5"
+    },
+    "black": {
+      "default": "#000000"
+    },
+    "text": {
+      "white": "#FFFFFF",
+      "1": "#4B5D68",
+      "2": "#212353",
+      "3": "#9C69E2"
+    }
+  }
+}

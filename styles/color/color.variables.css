@@ -1,0 +1,61 @@
+
+/* ----------------------------------------------------------- */
+/* WARNING: NOT MODIFY THIS FILE */
+/* ----------------------------------------------------------- */
+/* Step 1: Modify file color-preview.json */
+/* Step 2: npm run gen-color */
+/* ----------------------------------------------------------- */
+
+:root {
+  --btn-default: #9C69E2;
+--bg-4: #F063B8;
+--bg-5: #68C9BA;
+--bg-default: #FFFFFF;
+--bg-main: #9C69E2;
+--bg-blue-2: #2D9CDB;
+--bg-gray: #F5F5F5;
+--black-default: #000000;
+--text-1: #4B5D68;
+--text-2: #212353;
+--text-3: #9C69E2;
+--text-white: #FFFFFF;
+}
+
+.btn-default {
+      color: #9C69E2;
+    };
+.bg-4 {
+      color: #F063B8;
+    };
+.bg-5 {
+      color: #68C9BA;
+    };
+.bg-default {
+      color: #FFFFFF;
+    };
+.bg-main {
+      color: #9C69E2;
+    };
+.bg-blue-2 {
+      color: #2D9CDB;
+    };
+.bg-gray {
+      color: #F5F5F5;
+    };
+.black-default {
+      color: #000000;
+    };
+.text-1 {
+      color: #4B5D68;
+    };
+.text-2 {
+      color: #212353;
+    };
+.text-3 {
+      color: #9C69E2;
+    };
+.text-white {
+      color: #FFFFFF;
+    };
+
+

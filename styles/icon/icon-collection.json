@@ -1,0 +1,29 @@
+{
+  "prefix": "icon",
+  "lastModified": 1717856184,
+  "icons": {
+    "arrow-down": {
+      "body": "<path fill=\"currentColor\" d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8V64c0-17.7-14.3-32-32-32s-32 14.3-32 32v306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>",
+      "width": 384,
+      "height": 512
+    },
+    "left-arrow": {
+      "body": "<path fill=\"none\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m7.063 1.701-6.01 7.013 6.01 7.012M1.052 8.714h40.072\"/>"
+    },
+    "logo": {
+      "body": "<g fill=\"none\"><rect width=\"19.876\" height=\"19.876\" y=\"15.832\" fill=\"#9C69E2\" rx=\"9.938\"/><rect width=\"19.876\" height=\"34.783\" x=\"28.82\" y=\".925\" fill=\"#F063B8\" rx=\"9.938\"/></g>",
+      "width": 49,
+      "height": 36
+    },
+    "message-box": {
+      "body": "<g fill=\"none\"><circle cx=\"30.919\" cy=\"30.721\" r=\"30.081\" fill=\"#9C69E2\" opacity=\".2\"/><path fill=\"#9C69E2\" d=\"M15.879 26.684c0-5.523 4.477-10 10-10h10.08c5.523 0 10 4.477 10 10v4.064c0 5.523-4.477 10-10 10H15.88V26.684Z\"/><circle cx=\"24.904\" cy=\"28.716\" r=\"2.005\" fill=\"#fff\"/><circle cx=\"30.92\" cy=\"28.716\" r=\"2.005\" fill=\"#fff\"/><circle cx=\"36.936\" cy=\"28.716\" r=\"2.005\" fill=\"#fff\"/><path fill=\"#9C69E2\" d=\"M25.906 39.745H15.879v2.484c0 1.555 1.696 2.515 3.029 1.715l6.998-4.199Z\"/></g>",
+      "width": 61,
+      "height": 61
+    },
+    "right-arrow": {
+      "body": "<path fill=\"none\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m35.926 1.129 6.011 7.012-6.01 7.013m6.01-7.013H1.866\"/>"
+    }
+  },
+  "width": 43,
+  "height": 17
+}
